@@ -149,5 +149,52 @@
 }
 
 .container{
-    margin: 5em 0px;
+    padding: 5em 0px;
 }
+
+.container_3 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 5em 0px;
+}
+.cnt_3 {
+    background-color: #3882F6;
+    display: flex;
+    padding: 3em 8em;
+    border-radius: 10px;
+    align-items: center;
+    gap: 10em;
+}
+
+.contact_1 {
+    font-weight: bold;
+    font-size: 30px;
+    color: white;
+}
+
+.contact_2 {
+    color: white;
+    font-size: 22px;
+}
+
+.sign_up{
+    border: 2px solid white;
+    border-radius: 10px;
+    color: white;
+    font-size: 22px;
+    font-weight: bold;
+    padding: 4px 45px;
+}
+
+.footer {
+    background-color: #1F2937;
+    display: flex;
+    justify-content: center;
+    color: white;
+    font-family: 'Roboto', Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    height: 100px;
+    align-items: center;
+}
+
