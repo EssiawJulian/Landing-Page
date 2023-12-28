@@ -34,6 +34,11 @@
     font-family: 'Roboto';
 }
 
+.header__links a:hover
+{
+    border-bottom: 2px solid white;
+}
+
 .head_text{
     font-size: 4em;
     color: #F9FAF8;
