@@ -15,7 +15,7 @@
 .header p {
     color: White;
     font-family: 'Roboto';
-    font-size: 2em;
+    font-size: 1.5em;
     font-weight: bolder;
 }
 
@@ -40,7 +40,7 @@
 }
 
 .head_text{
-    font-size: 4em;
+    font-size: 3em;
     color: #F9FAF8;
     font-weight: bolder;
     width: 10em;
@@ -60,6 +60,7 @@
     display: flex;
     margin-top: 6em;
     margin-bottom: 6em;
+    gap: 25px;
 
 }
 .content__one p{
@@ -138,7 +139,7 @@
 
 .quote {
     width: 23em;
-    font-size: 36px;
+    font-size: 30px;
     font-family:'Arial Narrow', Arial, sans-serif;
     font-style: italic;
     font-weight: 100;
